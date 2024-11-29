@@ -1,0 +1,8 @@
+build/*
+Template-5.0.0/*
+.DS_Store
+
+# raylib files (introduced in commit 93e79b416a092c1bb4572933d8f576f3aa002146)
+libraylib.a
+raylib.h
+raymath.h

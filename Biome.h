@@ -1,0 +1,10 @@
+#ifndef NEURALNETWORK_H_BIOME_H
+#define NEURALNETWORK_H_BIOME_H
+#include "Organism.h"
+#include "ui/GUI.h"
+#include "ui/Map.h"
+#include "NeuralNetwork.h"
+#include "BiomeHelper.h"
+#include "Stats.h"
+#include "Simulation.h"
+#endif //NEURALNETWORK_H_BIOME_H
